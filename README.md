@@ -7,6 +7,9 @@
 
 <p align="center"><em>“The details are not the details. They make the design.” — Charles Eames</em></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+clean,+beautiful+code+together." alt="Typing SVG" />
+</p>
 ---
 
 ### 👩‍💻 Who Am I?
@@ -66,6 +69,4 @@ With a foundation in both frontend and backend development, I specialize in buil
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!; Let's+build+clean,+beautiful+code+together." alt="Typing SVG" />
-</p>
+
