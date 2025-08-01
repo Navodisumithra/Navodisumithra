@@ -1,6 +1,6 @@
 <!-- Professional Visual Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAC/rage-anime.gif" width="300" alt="Anime Girl Coding GIF" />
+  <img src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAC/rage-anime.gif" width="500" alt="Anime Girl Coding GIF" />
 </p>
 
 <h1 align="center">🌟 Navodi Sumithra — Engineering Ideas into Scalable Solutions</h1>
